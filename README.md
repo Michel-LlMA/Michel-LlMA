@@ -14,10 +14,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michel-LlMA&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-# Projetos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Michel-LlMA&repo=projeto-pokemon-mapdev)](https://github.com/anuraghazra/github-readme-stats)
-
 # Contatos
 
 <div>
@@ -29,3 +25,7 @@
 </div>
 
 ![Snake animation](https://github.com/Michel-LlMA/Michel-LlMA/blob/output/github-contribution-grid-snake.svg)
+
+# Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Michel-LlMA&repo=projeto-pokemon-mapdev)](https://github.com/anuraghazra/github-readme-stats)
