@@ -1,5 +1,6 @@
 #### Olá sou o Michel Lima, atuo á 8 Anos em uma empresa de Call Center e atualmente estou estudando JS visando migrar de área para atuar como Front-End. 
 
+## Interesses
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
@@ -10,7 +11,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michel-LlMA&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-# Contatos
+## Contatos
 
 <div>
 
@@ -21,7 +22,3 @@
 </div>
 
 ![Snake animation](https://github.com/Michel-LlMA/Michel-LlMA/blob/output/github-contribution-grid-snake.svg)
-
-# Projetos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Michel-LlMA&repo=projeto-pokemon-mapdev)](https://github.com/anuraghazra/github-readme-stats)
