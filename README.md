@@ -1,4 +1,4 @@
-#### Olá sou o Michel Lima, atuo á 8 Anos em uma empresa de Call Center e atualmente estou estudando JS visando migrar de área para atuar como Front-End. 
+### Olá sou o Michel Lima, tenho 8 Anos de expêriencia em Call Center e atualmente estou estudando JS visando migrar de área para atuar como Front-End. 
 
 ## Interesses
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
